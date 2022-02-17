@@ -36,3 +36,5 @@ class TestStatistics(unittest.TestCase):
     def test_etsi_parhaat_pelaajat(self):
         players = self.statistics.top_scorers(0)
         self.assertEqual(players,[self.statistics.search("Gretzky")])
+
+        
