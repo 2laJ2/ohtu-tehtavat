@@ -41,5 +41,3 @@ class Ostoskori:
         for ostos in self.ostoskori:
             tuotteet.append(ostos)
         return tuotteet
-        # palauttaa listan jossa on korissa olevat ostos-oliot
-        # kukin ostos-olio siis kertoo mistä tuotteesta on kyse JA kuinka monta kappaletta kyseistä tuotetta korissa on
