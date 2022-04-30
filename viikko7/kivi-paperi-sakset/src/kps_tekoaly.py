@@ -1,4 +1,3 @@
-#from tuomari import Tuomari
 from tekoaly import Tekoaly
 from kps import KPS
 
